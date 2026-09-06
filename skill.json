@@ -1,0 +1,16 @@
+{
+  "name": "genpark-token-cost-rate-limit-quota-guard-skill",
+  "version": "1.0.0",
+  "description": "Multi-tenant token budget tracker, sliding-window rate limiter, and model pricing ledger.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "rate-limit",
+    "token-quota",
+    "cost-control",
+    "finops",
+    "llm-budget",
+    "genpark",
+    "mcp"
+  ]
+}
